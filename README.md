@@ -3,7 +3,7 @@
 
 I'm a CS student at **UC Berkeley** and **Nanyang Technological University (NTU)**.  
 
-In this age of AI, its just cooked isn't it? Well but not if God has His eyes on me.
+In this age of AI, its just cooked isn't it?
 
 In any case I do find coding tolerable. TDL:
 - Learn more c++
