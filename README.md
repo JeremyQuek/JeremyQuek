@@ -1,16 +1,12 @@
-# Hello! I'm Jeremy 
+# Hi, I'm Jeremy 👋
 
+I study Computer Science at **Nanyang Technological University (NTU)**, and spent a year at **UC Berkeley**.
 
-I'm a CS student at **UC Berkeley** and **Nanyang Technological University (NTU)**.  
+AI is changing everything, but I still enjoy building things for the fun of it. Here's what I'm currently learning:
 
-In this age of AI, its just cooked isn't it?
-
-In any case here are some things to learn. TDL:
-- Learn more c++
-- Deep systems programming
-- Networking project, implement my own low level tcp socket web server
-- Experiment and learn abt language compilation and generation
-- Experience kubernetes, redis, and distributed stacks
-- Experience infra and ELK/LGTM
-  
-
+- Getting deeper into C++, Rust, Go
+- Low-level systems programming
+- Writing my own TCP socket web server from scratch
+- Exploring how compilers and code generation work
+- Working with Kubernetes, Redis and distributed systems
+- Learning infrastructure and observability stacks (ELK, LGTM)
